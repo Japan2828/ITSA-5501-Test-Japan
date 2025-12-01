@@ -1,1 +1,1 @@
-console.log(`JAPANKUMAR PANDYA - N01762671`);
+console.log("Workflow trigger test by Japan!");
